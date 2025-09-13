@@ -1,0 +1,6 @@
+import { defineConfig } from 'vite'
+
+// No React. Pure Vue via bare ESM entry.
+// Additional config can be added here if needed (aliases, base path, etc.).
+export default defineConfig({
+})
